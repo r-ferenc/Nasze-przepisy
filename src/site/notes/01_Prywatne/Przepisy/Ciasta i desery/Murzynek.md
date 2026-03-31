@@ -24,4 +24,3 @@
 4. Wylać na keksówkę lub małą blachę 
 5. 175 ℃ 35 -40 min lub do suchego patyczka
 
-![Murzynekb  .png](/img/user/_Za%C5%82%C4%85czniki/Murzynekb%20%20.png)
