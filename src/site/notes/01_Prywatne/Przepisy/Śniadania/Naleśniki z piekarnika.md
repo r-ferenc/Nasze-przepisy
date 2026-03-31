@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-prywatne/przepisy/sniadania/nalesniki-z-piekarnika/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"nalesniki","permalink":"/nalesniki/","dg-note-properties":{}}
 ---
 
 
