@@ -3,9 +3,15 @@
 ---
 
 
-# 🍔 Przepisy dla Żony
+# 🍔 Nasze przepisy! 
 
-Witaj na mojej stronie z przepisami! 
+Witaj na naszej stornie z przepisami! 
 
-### Najnowsze pyszności:
+### Śniadania
+
 * [[01_Prywatne/Przepisy/Śniadania/Naleśniki z piekarnika\|Naleśniki z piekarnika]]
+
+### Ciasta i desery
+
+- [[01_Prywatne/Przepisy/Ciasta i desery/Murzynek\|Murzynek]]
+- [[01_Prywatne/Przepisy/Ciasta i desery/Tarta snickers bez pieczenia\|Tarta snickers bez pieczenia]]
