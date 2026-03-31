@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nalesniki","permalink":"/nalesniki/","noteIcon":"🥞","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"nalesniki","permalink":"/nalesniki/","dg-note-properties":{}}
 ---
 
 
