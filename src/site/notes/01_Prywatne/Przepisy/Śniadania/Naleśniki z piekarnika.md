@@ -12,8 +12,12 @@
 ## 🛒 Składniki
 
 Ciasto
-* ⬜ 220 g herbatników
-* ⬜ 220 g herbatników
+* 220 g herbatników
+*  220 g herbatników
+
+- dsfds
+- fdsf
+- fdsdf
 - [ ] 1,5 szklanki mleka
 - [ ] 1 szklana mąki
 - [ ] 1 jajko
