@@ -15,20 +15,18 @@ Ciasto
 * 220 g herbatników
 *  220 g herbatników
 
-- dsfds
-- fdsf
-- fdsdf
-- [ ] 1,5 szklanki mleka
-- [ ] 1 szklana mąki
-- [ ] 1 jajko
-- [ ] 3 łyżki oleju
-- [ ] sól i pieprz
+* 1,5 szklanki mleka
+* 1 szklana mąki
+-  1 jajko
+- 3 łyżki oleju
+-  sól i pieprz
 Dodatki - dowolne np:
-- [ ] ser
-- [ ] papryka
-- [ ] cebula
-- [ ] pieczarki 
-- [ ] itd..
+- ser
+- szynka
+- papryka
+- cebula
+- pieczarki 
+-  itd..
 
 ## 👨‍🍳 Przygotowanie
 1. Wstaw piekarnik  200℃ góra/dół
