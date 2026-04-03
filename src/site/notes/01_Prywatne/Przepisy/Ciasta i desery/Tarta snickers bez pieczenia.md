@@ -11,26 +11,26 @@
 ## 🛒 Składniki
 **Ciasteczkowy spód:**
 
-- [ ]  220 g kakaowych herbatników
-- [ ]  100 g roztopionego masła
-- [ ]  70 g kremowego masła orzechowego
+*  220 g kakaowych herbatników
+*  100 g roztopionego masła
+* 70 g kremowego masła orzechowego
 
 **Warstwa kajmakowa:**
 
-- [ ]  150 g orzeszków ziemnych np. lekko solonych
-- [ ]  350 g masy kajmakowej
+* 150 g orzeszków ziemnych np. lekko solonych
+* 350 g masy kajmakowej
 
 **Krem z białą czekoladą:**
 
-- [ ] 400 ml zimnej śmietanki 30 lub 36% (najlepiej UHT)
-- [ ]  80 g białej czekolady
-- [ ]  1 lekko czubata łyżka cukru pudru
-- [ ]  250 g zimnego mascarpone
+* 400 ml zimnej śmietanki 30 lub 36% (najlepiej UHT)
+* 80 g białej czekolady
+* 1 lekko czubata łyżka cukru pudru
+* 250 g zimnego mascarpone
 
 **Dodatkowo:**
 
-- [ ]  2 snickersy
-- [ ]  2 łyżki posiekanych orzeszków ziemnych
+* 2 snickersy
+* 2 łyżki posiekanych orzeszków ziemnych
 ## 👨‍🍳 Przygotowanie
 1. Herbatniki kakaowe mielimy na drobno. Przesypujemy do miski. Dodajemy  roztopione, przestudzone masło oraz kremowe masło orzechowe.
    Wszystkie składniki mieszamy za pomocą łyżki.
