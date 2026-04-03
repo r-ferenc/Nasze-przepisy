@@ -9,13 +9,13 @@
 > **Tagi:** #przepis #murzynek
 
 ## 🛒 Składniki
-- [ ] 1 kostka margaryny
-- [ ] 1,5 szklanki cukru
-- [ ] 3 łyżki kakao
-- [ ] 6 łyżek mleka
-- [ ] 2 szklanki mąki
-- [ ] 3 jajka
-- [ ] 2 łyżeczki proszku do pieczenia
+* 1 kostka margaryny
+* 1,5 szklanki cukru
+*  3 łyżki kakao
+*  6 łyżek mleka
+* 2 szklanki mąki
+*  3 jajka
+* 2 łyżeczki proszku do pieczenia
 
 ## 👨‍🍳 Przygotowanie
 1. Margarynę ,cukier, mleko i kakao rozpuścić w garnku i odstawić do przestygnięcia (odlać pół szklanki jako polewa)
