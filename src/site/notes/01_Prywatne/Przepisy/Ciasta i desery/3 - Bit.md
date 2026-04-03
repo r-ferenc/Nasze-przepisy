@@ -40,7 +40,7 @@
 1. Ubijaj miękkie masło mikserem aż do uzyskania puszystej i jasnej masy
 2. Po ubiciu masła dodawaj stopniowo masę budyniową łyżka po łyżce i ubijaj do połączenia się składników
 
-**Składanie ciasta:
+**Składanie ciasta:**
 
 1. Na dnie ułożyć warstwę herbatników
 2. Wyłożyć masę kajmakową (wymieszać ją wcześniej w misce aby łatwiej się rozprowadzała)
