@@ -5,13 +5,13 @@
 
 
 > [!INFO] Podstawowe informacje
->   **Czas:** 10min + 30min pieczenie
+>	**Czas:** 10min + 30min pieczenie
 >  > **Źródło:** [Kliknij tutaj](https://www.facebook.com/share/r/18RDkxEF4F/)
 > **Tagi:** #przepis #naleśniki #z_piekarnika #śniadanie
 
 ## 🛒 Składniki
 
-**Ciasto
+**Ciasto**
 * 220 g herbatników
 *  220 g herbatników
 
@@ -21,7 +21,7 @@
 - 3 łyżki oleju
 -  sól i pieprz
   
-**Dodatki - dowolne np:
+**Dodatki - dowolne np:**
 - ser
 - szynka
 - papryka
