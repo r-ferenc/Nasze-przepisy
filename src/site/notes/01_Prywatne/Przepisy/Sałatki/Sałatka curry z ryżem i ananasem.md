@@ -13,7 +13,7 @@
 * 400g ryżu (najlepiej długoziarnisty)
 * 2 puszki kukurydzy
 * 2 puszki ananasa
-* pierś z kurczaka
+* 800g piersi z kurczaka
   (+ sól, pieprz i papryka słodka do smaku)
 * pęczek natki pietruszki
 *  +/- 10 łyżek majonezu
@@ -23,7 +23,7 @@
 ## 👨‍🍳 Przygotowanie
 
 1. Ugotuj 400 g ryż zgodnie z instrukcją na opakowaniu
-2. Kurczaka pokrój na kawałki - dopraw solą, pieprzem i papryką słodką - Usmaż
+2. 800 g kurczaka pokrój na kawałki - dopraw solą, pieprzem i papryką słodką - Usmaż
 3.  2 puszki ananasa pokrój na kawałki
 4. Kukurydzę - odcedzić
 5. Posiekaj pęczek pietruszki 
