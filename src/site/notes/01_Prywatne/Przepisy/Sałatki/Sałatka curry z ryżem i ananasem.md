@@ -33,3 +33,6 @@
 ## 📝 Notatki / Uwagi
 
 Podwójna porcja!
+
+
+![Sałatka curry z ryżem i ananasem.jpg](/img/user/_Za%C5%82%C4%85czniki/Sa%C5%82atka%20curry%20z%20ry%C5%BCem%20i%20ananasem.jpg)
