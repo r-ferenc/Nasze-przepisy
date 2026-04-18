@@ -16,7 +16,7 @@ Witaj na naszej stornie z przepisami!
 - [[01_Prywatne/Przepisy/Ciasta i desery/Murzynek\|Murzynek]]
 - [[01_Prywatne/Przepisy/Ciasta i desery/Tarta snickers bez pieczenia\|Tarta snickers bez pieczenia]]
 - [[01_Prywatne/Przepisy/Ciasta i desery/3 - Bit\|3 - Bit]]
-
+- [[01_Prywatne/Przepisy/Ciasta i desery/Sernik z kakaową kruszonką\|Sernik z kakaową kruszonką]]
 ### Sałatki
 
 - [[01_Prywatne/Przepisy/Sałatki/Sałatka curry z ryżem i ananasem\|Sałatka curry z ryżem i ananasem]]
