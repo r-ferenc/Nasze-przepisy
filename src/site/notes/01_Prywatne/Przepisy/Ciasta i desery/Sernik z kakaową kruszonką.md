@@ -11,6 +11,7 @@
 ## 🛒 Składniki
 
 **Ciasto:**
+
 * 3 szklanki mąki
 * 1 szklanka cukru
 * 2 żółtka
@@ -19,6 +20,7 @@
 * 2 łyżeczki proszku do pieczenia
   
 **Masa serowa:**
+
 * 1/2 kostki margaryny
 * 1 szklanka cukru
 * 5 żółtek
@@ -28,20 +30,23 @@
 ## 👨‍🍳 Przygotowanie
 
 **Ciasto:**
+
 1. Ze wszystkich składników przygotować kruszonkę
    
 **Masa serowa:**
-2. 5 żółtek utrzeć ze szklanką cukru
-3. dodać 1/2 kostki margaryny i dalej ucierać 
-4. Do utartej masy dodawać po trochu sera i dalej miksować
-5. Na koniec wsypać budyń
-6. Pianę z 7 białek ubić na sztywno i dodać do masy serowej. Delikatnie wymieszać.
+
+1. 5 żółtek utrzeć ze szklanką cukru
+2. dodać 1/2 kostki margaryny i dalej ucierać 
+3. Do utartej masy dodawać po trochu sera i dalej miksować
+4. Na koniec wsypać budyń
+5. Pianę z 7 białek ubić na sztywno i dodać do masy serowej. Delikatnie wymieszać.
    
 **Składanie ciasta:**
-7. 1/2 kruszonki wysypać na blachę 
-8. Wylać masę serową
-9. Wyłożyć drugą cześć kruszonki
-10. Pieczemy około 1h w temp 180℃
+
+6. 1/2 kruszonki wysypać na blachę 
+7. Wylać masę serową
+8. Wyłożyć drugą cześć kruszonki
+9. Pieczemy około 1h w temp 180℃
 
 ## 📝 Notatki / Uwagi
 
