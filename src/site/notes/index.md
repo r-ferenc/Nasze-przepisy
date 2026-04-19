@@ -7,9 +7,10 @@
 
 Witaj na naszej stornie z przepisami! 
 
-### Śniadania
+### Śniadania i Kolacje
 
-* [[01_Prywatne/Przepisy/Śniadania/Naleśniki z piekarnika\|Naleśniki z piekarnika]]
+* [[src/site/notes/01_Prywatne/Przepisy/Śniadania/Naleśniki z piekarnika\|Naleśniki z piekarnika]]
+* [[01_Prywatne/Przepisy/Śniadania i Kolacje/Placuszki z groszkiem\|Placuszki z groszkiem]]
 
 ### Ciasta i desery
 
