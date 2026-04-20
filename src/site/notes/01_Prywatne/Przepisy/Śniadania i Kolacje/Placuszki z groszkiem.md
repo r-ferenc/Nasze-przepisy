@@ -32,3 +32,5 @@
 
 - Można użyć dowolnych dodatków. 
 - Można dodać do ciasta przyprawy np: zioła 
+  
+  ![Placuszki z groszkiem1.png\|320](/img/user/_Za%C5%82%C4%85czniki/Placuszki%20z%20groszkiem1.png)![Placuszki z groszkiem2.png\|328](/img/user/_Za%C5%82%C4%85czniki/Placuszki%20z%20groszkiem2.png)

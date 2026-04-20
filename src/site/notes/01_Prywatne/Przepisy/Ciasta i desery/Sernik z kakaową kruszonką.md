@@ -51,3 +51,8 @@
 ## 📝 Notatki / Uwagi
 
 Przepis na dużą blachę.
+
+
+
+![Sernik z kakaową kruszonką1.png\|434](/img/user/_Za%C5%82%C4%85czniki/Sernik%20z%20kakaow%C4%85%20kruszonk%C4%851.png)
+![Sernik z kakaową kruszonką2.png\|437](/img/user/_Za%C5%82%C4%85czniki/Sernik%20z%20kakaow%C4%85%20kruszonk%C4%852.png)
