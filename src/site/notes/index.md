@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-permalink":"/","permalink":"/","dg-note-properties":{}}
 ---
 
-
 # 🍔 Nasze przepisy! 
 
 Witaj na naszej stornie z przepisami! 
