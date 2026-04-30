@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/","permalink":"/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"/","permalink":"/","dg-note-properties":{"Title":"Nasze przepisy"}}
 ---
 
 # 🍔 Nasze przepisy! 
